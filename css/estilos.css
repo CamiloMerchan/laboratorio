@@ -1,0 +1,23 @@
+body{
+	
+	font-size: 84px;
+}
+
+h1{
+  color: red;
+	font-size: 84px;
+}
+p{
+	color: black;
+	font-size: 35px;
+}
+.p1{ font-family: georgia,serif;
+	font-weight: 900;
+	font-style: oblique;
+
+}
+.p2{font-family: georgia,serif;
+	font-weight: 900;
+	font-style: oblique;
+	
+}
